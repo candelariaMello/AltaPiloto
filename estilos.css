@@ -1,0 +1,10 @@
+h1{
+    color:rgb(25, 25, 112);
+    padding: 2%;
+    margin-top: 1%;
+    text-align: center;
+}
+
+label.error{
+    color:red;
+}
